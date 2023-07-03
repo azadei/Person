@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\ConsolePerson\ConsolePerson\bin\Debug\net5.0\ConsolePerson.exe
+C:\Users\user\Desktop\ConsolePerson\ConsolePerson\bin\Debug\net5.0\ConsolePerson.deps.json
+C:\Users\user\Desktop\ConsolePerson\ConsolePerson\bin\Debug\net5.0\ConsolePerson.runtimeconfig.json
+C:\Users\user\Desktop\ConsolePerson\ConsolePerson\bin\Debug\net5.0\ConsolePerson.runtimeconfig.dev.json
+C:\Users\user\Desktop\ConsolePerson\ConsolePerson\bin\Debug\net5.0\ConsolePerson.dll
+C:\Users\user\Desktop\ConsolePerson\ConsolePerson\bin\Debug\net5.0\ConsolePerson.pdb
+C:\Users\user\Desktop\ConsolePerson\ConsolePerson\obj\Debug\net5.0\ConsolePerson.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ConsolePerson\ConsolePerson\obj\Debug\net5.0\ConsolePerson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\ConsolePerson\ConsolePerson\obj\Debug\net5.0\ConsolePerson.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ConsolePerson\ConsolePerson\obj\Debug\net5.0\ConsolePerson.AssemblyInfo.cs
+C:\Users\user\Desktop\ConsolePerson\ConsolePerson\obj\Debug\net5.0\ConsolePerson.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ConsolePerson\ConsolePerson\obj\Debug\net5.0\ConsolePerson.dll
+C:\Users\user\Desktop\ConsolePerson\ConsolePerson\obj\Debug\net5.0\refint\ConsolePerson.dll
+C:\Users\user\Desktop\ConsolePerson\ConsolePerson\obj\Debug\net5.0\ConsolePerson.pdb
+C:\Users\user\Desktop\ConsolePerson\ConsolePerson\obj\Debug\net5.0\ConsolePerson.genruntimeconfig.cache
+C:\Users\user\Desktop\ConsolePerson\ConsolePerson\obj\Debug\net5.0\ref\ConsolePerson.dll
